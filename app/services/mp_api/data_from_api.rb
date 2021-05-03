@@ -1,4 +1,4 @@
-module MPApi
+module MpApi
 
   # this class will access the Mountain Project API (mp) and retreive details for the climbing routes that fall under
   # the criteria received in the controller. It will bascially just pass the response back to the controller, where the 
